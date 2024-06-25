@@ -3,8 +3,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import joblib
-from sklearn.preprocessing import StandardScaler, LabelEncoder
-from sklearn.decomposition import PCA
+
 
 # Categorical Encoders
 encoder_Application_mode = joblib.load('model/encoder_Application_mode.joblib')
