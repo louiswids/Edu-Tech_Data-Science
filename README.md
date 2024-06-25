@@ -48,7 +48,7 @@ Sistem *machine learning* yang dibuat adalah *prototype* yang teradapat pada Str
 ```
 streamlit run App.py
 ```
-
+*Prototype* dapat diakses pada <a href = 'https://edu-techdata-science-louis-widi.streamlit.app/'>link (https://edu-techdata-science-louis-widi.streamlit.app/)</a>
 ## Conclusions
 
 1. Demografis. Para pelajar yang mendaftar pada umur yang lebih tua cenderung memiliki berbagai tanggungan, maka mereka akan mengambil kelas malam. Beban pelajaran dan pekerjaan yang mungkin mereka miliki menghambat proses pembelajaran mereka. Hal ini ditambah dengan program studi yang mereka ambil kemungkinan merupakan program yang mereka jadikan formalitas dalam memiliki gelar, sehingga kurang .
