@@ -125,7 +125,7 @@ col1, col2 = st.columns([1, 3])
 with col1:
     st.image("https://media.licdn.com/dms/image/D5603AQG3r7y4FIt2IQ/profile-displayphoto-shrink_200_200/0/1712126841723?e=2147483647&v=beta&t=U_iDrfRoLYs9gzOFdcTuXuxIgl88iRRf0b8onRYVrk0", width=100, )
 with col2:
-    st.header('Credit Scoring App (Prototype)')
+    st.header('Student Performance Outcome App (Prototype)')
     st.write('By: Louis Widi Anandaputra')
 # Input fields
 data = pd.DataFrame()
